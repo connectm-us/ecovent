@@ -1,0 +1,237 @@
+
+STEP {
+    COL=1
+    NAME=job
+}
+
+LAYER {
+    ROW=1
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=ecoventv_v1.1.gbl
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=2
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gbo
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=3
+    CONTEXT=BOARD
+    TYPE=SOLDER_PASTE
+    NAME=ecoventv_v1.1.gbp
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=4
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    NAME=ecoventv_v1.1.gbs
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=5
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm1
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=6
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm14
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=7
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm2
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=8
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm3
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=9
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm4
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=10
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm5
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=11
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm6
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=12
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gm7
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=13
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    NAME=ecoventv_v1.1.gp1
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=14
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    NAME=ecoventv_v1.1.gp2
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=15
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    NAME=ecoventv_v1.1.gpb
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=16
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    NAME=ecoventv_v1.1.gpt
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=17
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=ecoventv_v1.1.gtl
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=18
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=ecoventv_v1.1.gto
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=19
+    CONTEXT=BOARD
+    TYPE=SOLDER_PASTE
+    NAME=ecoventv_v1.1.gtp
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=20
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    NAME=ecoventv_v1.1.gts
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=21
+    CONTEXT=BOARD
+    TYPE=DRILL
+    NAME=ecoventv_v1.1.txt
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:48:13 PM On 1/14/2015
+
+Output: Bill of Materials Assembly
+Type  : BOM
+From  : Variant [915 ecoVENTV_v1.1] of Project [ecoVENTV_v1.1.PrjPcb]
+   Generated File[BOM_ecoVENTV_v1.1 Assembly.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:48:15 PM On 1/14/2015
