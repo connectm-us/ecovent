@@ -16,5 +16,5 @@ A system including a controlled supply register that has an airflow adjusting me
 ## Mass Market
 If we can produce cost-efficient dampers or supply registers and sensors to operate within this system methodology, we can provide a solution to the mass market for less than $500.
 
-## PROVEN TECHNOLOGY
+## Proven Technology
 We have proven this technology over 4 years, with independent studies and in-the-field systems.  We are title 24 compliant as well.  The methodology is proven.  Now we need to commoditize the hardware.
